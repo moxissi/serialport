@@ -1,0 +1,10 @@
+C:\Users\Jiří\source\repos\comporttest\comporttest\bin\Debug\comporttest.exe.config
+C:\Users\Jiří\source\repos\comporttest\comporttest\bin\Debug\comporttest.exe
+C:\Users\Jiří\source\repos\comporttest\comporttest\bin\Debug\comporttest.pdb
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.csproj.AssemblyReference.cache
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.Form1.resources
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.Properties.Resources.resources
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.csproj.GenerateResource.cache
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.csproj.CoreCompileInputs.cache
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.exe
+C:\Users\Jiří\source\repos\comporttest\comporttest\obj\Debug\comporttest.pdb
